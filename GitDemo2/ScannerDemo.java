@@ -11,7 +11,7 @@ public class ScannerDemo {
 		
 		int numbers[]=new int[size]; //initialization of array, which will store elements with same count as size
 		//if size is 15, array will store 15 elements, where first element will be stored at 0th index ,
-		//and last element will be stored at 14th index
+//and last element will be stored at 14th index
 
 		System.out.println("Enter "+size+" numbers ");
 		for (int i=0;i<size;i++)
