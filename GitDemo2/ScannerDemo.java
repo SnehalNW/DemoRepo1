@@ -9,7 +9,7 @@ public class ScannerDemo {
 		System.out.println("How many numbers would you like to enter?");
 		size=sc.nextInt();
 		
-		int numbers[]=new int[size]; //initialization of array, which will store elements with same count as size
+		int numbers[]=new int[size]; //this is for initialization of array, which will store elements with same count as size
 		//if size is 15, array will store 15 elements, where first element will be stored at 0th index ,
 //and last element will be stored at 14th index
 
