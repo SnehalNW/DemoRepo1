@@ -6,7 +6,7 @@ public class ScannerDemo {
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
 		int size;
-		System.out.println("How many numbers you want to enter ?");
+		System.out.println("How many numbers would you like to enter?");
 		size=sc.nextInt();
 		
 		int numbers[]=new int[size]; //initialization of array, which will store elements with same count as size
